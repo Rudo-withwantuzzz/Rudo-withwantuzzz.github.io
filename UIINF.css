@@ -1,0 +1,99 @@
+#prsht{
+  width: 98%;
+  height: auto;
+  background-color: #899dc7;
+  padding: 1%;
+  font-size: 56px;
+  
+}
+
+#meny{
+  width: 18.19%;
+  height: auto;
+  background-color: #62749c;
+  border: 6px double #40436d;
+  float: left;
+  
+}
+
+#inf{
+  width: 80%;
+  height: 710px;
+  background-color: #b4c0db;
+  border: 6px double #40436d;
+  float: left;
+}
+.posts{
+  background-color: #ffffff;
+transition:  1s ease 0s;
+  width: 92%;
+  height: auto;
+  background-color: #fafaf5;
+  font-size: 20px;
+  margin: 2%;
+  border: 6px double #40436d;
+  float: left;
+  border-radius: 62px 0px 62px 10px;
+  box-shadow: 4px 5px 13px 0px #888ab4;
+}
+
+.image{
+  width: 15%;
+  height: auto;
+  background-color: #5c6494;
+  font-size: 60px;
+  margin: 2%;
+  float: left;
+  border: 6px double #484c89;
+  border-radius: 13px;
+}
+
+#girl{
+  width: 20%;
+  height: 345px;
+  background-color: #6f6e99;
+  float: right;
+  border-radius: 10px 10px 58px 9px;
+}
+
+.posts:hover{
+  background-color: #ffffff;
+  width: 98.5%;
+  border-radius: 62px 0px 62px 10px;
+  box-shadow: 4px 5px 13px 0px #888ab4;
+  padding: 1%;
+  box-shadow: 4px 5px 13px 0px #888ab4;
+}
+
+
+#meny ul li{
+  background-color: white;
+  padding: 5%;
+  margin: 5%;
+  font-size: 17px;
+  display: none;
+}
+
+#meny:hover ul li{
+  display: block;
+  
+}
+
+#meny ul li ul li{
+  background-color: #8a8b9e;
+  padding: 5%;
+  margin: 5%;
+  font-size: 17px;
+}
+
+#meny:hover ul li ul li{
+  background-color: #8a8b9e;
+  padding: 5%;
+  margin: 5%;
+  font-size: 17px;
+  display: none;
+}
+
+#meny ul li:hover ul li{
+  display: block;
+}

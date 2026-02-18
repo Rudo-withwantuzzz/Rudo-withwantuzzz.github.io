@@ -1,0 +1,24 @@
+b{
+  margin: 45%;
+  font-size: 80px
+  
+}
+img{
+  padding-left: 31%;
+  padding-right: 35%;
+  margin: 3%
+}
+
+body{
+  background: linear-gradient(0deg, #000000 0%, #4d2d2d 100%);
+}
+
+div{
+  width: 15%;
+  height: auto;
+  background-color: #4d2d2d;
+  font-size: 50px;
+  margin: 1%;
+  border: 6px double #000000;
+  border-radius: 13px;
+}
